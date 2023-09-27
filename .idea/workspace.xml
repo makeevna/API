@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d068f6d-8c6b-4f69-a212-5cf4e41d68a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API10ZADCHKA/QQQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API10ZADCHKA/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API11ZADCHKA/OOO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API12ZADACHKA/LLLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API13ZADACHKA/DDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API13ZADACHKA/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API2ZADACHKA/zadachkaAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API3ZADACHKA/APIzadachka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API3ZADACHKA/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API4ZADACHKA/BBBB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API4ZADACHKA/nnn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API5ZADACHKA/CCCC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API5ZADACHKA/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API6ZADACHAKA/DocumentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API6ZADACHAKA/NNNN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API7ZADACHKA/CCCC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API7ZADACHKA/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API8ZADACHKA/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API8ZADACHKA/ZZZZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API9ZADACHKA/MMMM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API9ZADACHKA/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled13API.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2VviniiotjMViN9hsghkMhHOazj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.DDD">
+    <configuration name="DDD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API13ZADACHKA.DDD" />
+      <module name="untitled13API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API13ZADACHKA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LLLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API12ZADACHKA.LLLL" />
+      <module name="untitled13API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API12ZADACHKA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MMMM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API9ZADACHKA.MMMM" />
+      <module name="untitled13API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API9ZADACHKA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API11ZADCHKA.OOO" />
+      <module name="untitled13API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API11ZADCHKA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QQQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API10ZADCHKA.QQQ" />
+      <module name="untitled13API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API10ZADCHKA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DDD" />
+        <item itemvalue="Application.LLLL" />
+        <item itemvalue="Application.OOO" />
+        <item itemvalue="Application.QQQ" />
+        <item itemvalue="Application.MMMM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d068f6d-8c6b-4f69-a212-5cf4e41d68a0" name="Changes" comment="" />
+      <created>1695723123751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695723123751</updated>
+    </task>
+    <servers />
+  </component>
+</project>
