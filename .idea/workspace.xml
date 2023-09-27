@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d068f6d-8c6b-4f69-a212-5cf4e41d68a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API10ZADCHKA/QQQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API10ZADCHKA/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API11ZADCHKA/OOO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API12ZADACHKA/LLLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API13ZADACHKA/DDD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API13ZADACHKA/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API2ZADACHKA/zadachkaAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API3ZADACHKA/APIzadachka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API3ZADACHKA/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API4ZADACHKA/BBBB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API4ZADACHKA/nnn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API5ZADACHKA/CCCC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API5ZADACHKA/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API6ZADACHAKA/DocumentPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API6ZADACHAKA/NNNN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API7ZADACHKA/CCCC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API7ZADACHKA/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API8ZADACHKA/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API8ZADACHKA/ZZZZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API9ZADACHKA/MMMM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API9ZADACHKA/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled13API.iml" afterDir="false" />
-    </list>
+    <list default="true" id="8d068f6d-8c6b-4f69-a212-5cf4e41d68a0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,6 +118,20 @@
       <option name="presentableId" value="Default" />
       <updated>1695723123751</updated>
     </task>
+    <task id="LOCAL-00001" summary="nkonoo">
+      <option name="closed" value="true" />
+      <created>1695804628980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695804628980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comit" />
+    <MESSAGE value="nkonoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="nkonoo" />
   </component>
 </project>
